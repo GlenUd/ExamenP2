@@ -1,16 +1,7 @@
 //Escriba los nombres de los Autores
 //Autor1: Gorozabel Glen
 //Autor2: Oliver Quila
-/**git init
-        ls
-        git add out
-        git commit -m "udla_1"
-        git log
-        git branch -M main
-        git remote add origin https://github.com/GlenUd/Udla.git
-        git push -u origin main
 
-**/
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
